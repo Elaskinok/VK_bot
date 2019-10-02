@@ -1,0 +1,24 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+      "action": {
+        "type": "text",
+        "label": "Get assessment of pic"
+      },
+      "color": "positive"
+      }
+    ],
+
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Get Yandex Chart"
+        },
+        "color": "negative"
+      }
+    ]
+  ]
+}
